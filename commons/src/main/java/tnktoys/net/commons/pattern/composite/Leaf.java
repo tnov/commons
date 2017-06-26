@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tnktoys.net.commons.Composite;
+package tnktoys.net.commons.pattern.composite;
 
 import java.util.List;
 
